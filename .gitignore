@@ -1,4 +1,7 @@
-# 仅允许已审查的文字主页进入版本控制；新增材料需审查后明确放行。
+# 仅允许已审查的公开材料进入版本控制；新增材料需审查后明确放行。
 /*
 !/.gitignore
 !/README.md
+!/portfolio/
+/portfolio/*
+!/portfolio/Talent_Radar_AI_Agent_Case.pdf
